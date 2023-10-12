@@ -4,4 +4,4 @@ title: Irish Texts
 permalink: /irish/
 ---
 
-[The Book of Leinster]({{ site.baseurl }}{% link manusxcripts/ll.html %})
+[The Book of Leinster]({{ site.baseurl }}{% link manuscripts/ll.html %})
