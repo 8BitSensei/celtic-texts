@@ -5,7 +5,7 @@ title: Lebor Gabála Érenn, Book of the Taking of Ireland Part 3
 ---
 [Lebor Gabála Érenn (The Book of Invasions)]({{ site.baseurl }}{% link irish/texts/lge/irish-text-lge.markdown %})
 #### §39-54: The Nemedians and the Fir Bolg
----
+
 <br>
 §39. Now Ireland was waste thereafter, for a space of thirty years after Partholon, till Nemed son of Agnomain of the Greeks of Scythia came thither, with his four chieftains; [they were the four sons of Nemed]. Forty-four ships had he on the Caspian Sea for a year and a half, but his ship alone reached Ireland. These are the four chieftains, Starn, Iarbonel the Soothsayer, Annind, and Fergus Red-Side: they were the four sons of Nemed. 
 

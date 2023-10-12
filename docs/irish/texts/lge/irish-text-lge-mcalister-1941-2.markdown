@@ -5,7 +5,7 @@ title: Lebor Gabála Érenn, Book of the Taking of Ireland Part 2
 ---
 [Lebor Gabála Érenn (The Book of Invasions)]({{ site.baseurl }}{% link irish/texts/lge/irish-text-lge.markdown %})
 #### §26-38: The Invasions of Cessair and of Partholon
----
+
 <br>
 §26. Let us cease [at this point] from the stories of the Gaedil, that we may tell of the seven peoples who took Ireland before them. Cessair, d. Bith s. Noe took it, forty days before the Flood. Partholon s. Sera three hundred years after the Flood. Nemed s. Agnomain of the Greeks of Scythia, at the end of thirty years after Partholon. The Fir Bolg thereafter. The Fir Domnann thereafter. The Gailioin thereafter [al., along with them]. The Tuatha De Danann thereafter. [The sons of Mil thereafter as Fintan said]. Unde Fintan cecinit, 
 

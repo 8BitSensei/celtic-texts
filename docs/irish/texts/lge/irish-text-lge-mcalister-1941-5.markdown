@@ -5,7 +5,7 @@ title: Lebor Gabála Érenn, Book of the Taking of Ireland Part 5
 ---
 [Lebor Gabála Érenn (The Book of Invasions)]({{ site.baseurl }}{% link irish/texts/lge/irish-text-lge.markdown %})
 #### §65-95: The Milesians
----
+
 <br>
 §65. The taking of the Gaedil and their synchronizing, here below. As for the Gaedil, we have given their ventures from Iafeth s. Noe onward, and from the Tower of Nemrod, till we have left them at Breogan's Tower in Spain; and how they came from Egypt, and out of Scythia to the Maeotic Marshes, and along the Tyrrhene Sea to Crete and to Sicily; and we have further related how they took Spain by force. We shall now tell you below simply, how they came to Ireland.
 

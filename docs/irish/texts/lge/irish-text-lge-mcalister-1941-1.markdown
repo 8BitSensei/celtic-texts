@@ -5,7 +5,7 @@ title: Lebor Gabála Érenn, Book of the Taking of Ireland Part 1
 --- 
 [Lebor Gabála Érenn (The Book of Invasions)]({{ site.baseurl }}{% link irish/texts/lge/irish-text-lge.markdown %})
 #### §1-25
----
+
 <br>
 §1. In principio fecit Deus Cawlum et Terram, i.e., God made Heaven and Earth at the first, [and He Himself hath no beginning nor ending]. 
 
