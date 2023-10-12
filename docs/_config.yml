@@ -26,10 +26,10 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  8BitSensei
 
-remote_theme: olivier3lanc/Jekyll-LibDoc
+#remote_theme: olivier3lanc/Jekyll-LibDoc
 
 # Build settings
-# theme: minima
+theme: minima
 plugins:
   - jekyll-feed
 
