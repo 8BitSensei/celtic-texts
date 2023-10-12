@@ -1,9 +1,8 @@
 ---
 layout: page
 permalink: /irish/text/lge/mcalister-1941-1
-title: Lebor Gabála Érenn
----
-#### Lebor Gabála Érenn, Book of the Taking of Ireland Part 1. ed. and tr. by R. A. S. Macalister. Dublin, Irish Texts Society, 1941. 
+title: Lebor Gabála Érenn, Book of the Taking of Ireland Part 1
+--- 
 #### §1-25
 ---
 <br>
@@ -362,3 +361,7 @@ Ith son of Bregon with tuneful fame
 came at the first into Ireland: 
 he is the first of men who inhabited it, 
 of the noble seed of the powerful Gaedil.
+<br>
+---
+##### Sources
+[Lebor Gabála Érenn The Book of the Taking of Ireland 1941]({{ site.baseurl }}{% link irish/documents/irish-document-lge-mcalister-1941.markdown %})

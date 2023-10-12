@@ -1,9 +1,8 @@
 ---
 layout: page
 permalink: /irish/text/lge/mcalister-1941-2
-title: Lebor Gabála Érenn
+title: Lebor Gabála ÉrennLebor Gabála Érenn, Book of the Taking of Ireland Part 2 - 3
 ---
-#### Lebor Gabála Érenn, Book of the Taking of Ireland Part 1. ed. and tr. by R. A. S. Macalister. Dublin, Irish Texts Society, 1941. 
 #### §26-38: The Invasions of Cessair and of Partholon
 ---
 <br>
@@ -474,3 +473,7 @@ Partholon thought this to be good.
 
 
 So these are the tidings of the first Taking of Ireland after the Flood.
+<br>
+---
+##### Sources
+[Lebor Gabála Érenn The Book of the Taking of Ireland 1941]({{ site.baseurl }}{% link irish/documents/irish-document-lge-mcalister-1941.markdown %})
