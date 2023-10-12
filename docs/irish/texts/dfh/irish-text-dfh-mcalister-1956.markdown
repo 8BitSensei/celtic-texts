@@ -4,6 +4,7 @@ permalink: /irish/text/dfh/mcalister-1956
 title: Do Flathiusaib hÉrend (Roll of the Kings)
 --- 
 [Do Flathiusaib hÉrend (Roll of the Kings)]({{ site.baseurl }}{% link irish/texts/dfh/irish-text-dfh.markdown %})
+
 ---
 <br>
 Incipit of the princedoms of Ireland, and of their times, from the era of the Sons of Míl to the time of Túathal Techtmar.

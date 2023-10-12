@@ -4,6 +4,7 @@ permalink: /irish/text/dfh/mcalister-ll-anon
 title: Do Flathiusaib hÉrend (Roll of the Kings)
 --- 
 [Do Flathiusaib hÉrend (Roll of the Kings)]({{ site.baseurl }}{% link irish/texts/dfh/irish-text-dfh.markdown %})
+
 ---
 <br>
 {MS folio 14b 45}Incipit do flathiusaib Herend & dia hamseraib o ré Mac Miled co hamsir Tuathail Techtmair.
