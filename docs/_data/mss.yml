@@ -1,0 +1,7 @@
+- title: The Book of Leinster (LL) MS 1339
+  date: 12th century, later half
+  texts:
+    - name: Lebor Gabála Érenn (The Book of Invasions)
+      ref: irish/texts/lge/irish-text-lge.markdown
+    - name: Do Flathiusaib hÉrend (Roll of the Kings)
+      ref: rish/texts/dfh/irish-text-dfh.markdown

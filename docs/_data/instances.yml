@@ -1,0 +1,15 @@
+- title: Roll of the Kings
+  language: English
+  text: Do Flathiusaib hÉrend (Roll of the Kings)
+  text_ref: irish/texts/dfh/irish-text-dfh-mcalister-1956.markdown
+  sources:
+    - title: "The Roll of the Kings" Lebor Gabála Érenn
+      ref: irish/documents/irish-document-mcalister-1956.markdown
+
+- title: Do Flathiusaib hÉrend
+  language: Middle Irish
+  text: Do Flathiusaib hÉrend (Roll of the Kings)
+  text_ref: irish/texts/dfh/irish-text-dfh-mcalister-1956.markdown
+  sources:
+    - title: The Book of Leinster (LL) MS 1339
+      ref: irish/manuscripts/irish-mss-ll.markdown

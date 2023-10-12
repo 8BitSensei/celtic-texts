@@ -1,0 +1,10 @@
+- title: "The Roll of the Kings" Lebor Gabála Érenn
+  date: 1956
+  authors: R. A. S. Macalister, D. Litt
+  publisher: Irish Text Society
+  volume: 44
+  part: V
+  isbn: 1-870166-44-2
+  texts:
+    - name: Roll of the Kings
+      ref: irish/texts/dfh/irish-text-dfh-mcalister-1956.markdown

@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /irish/text/dfh/mcalister-1956
-title: Do Flathiusaib hÉrend (Roll of the Kings)
+title: Roll of the Kings
 --- 
 [Do Flathiusaib hÉrend (Roll of the Kings)]({{ site.baseurl }}{% link irish/texts/dfh/irish-text-dfh.markdown %})
 

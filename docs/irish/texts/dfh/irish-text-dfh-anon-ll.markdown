@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /irish/text/dfh/mcalister-ll-anon
-title: Do Flathiusaib hÉrend (Roll of the Kings)
+title: Do Flathiusaib hÉrend
 --- 
 [Do Flathiusaib hÉrend (Roll of the Kings)]({{ site.baseurl }}{% link irish/texts/dfh/irish-text-dfh.markdown %})
 
