@@ -11,8 +11,6 @@ title: "The Roll of the Kings" Lebor Gabála Érenn
 #### Part: *V*
 #### ISBN: 1-870166-44-2
 
-"The Roll of the Kings" Lebor Gabála Érenn. original text edited and translated by R A Stewart Macalister, D. Litt. Part V: Irish Texts Society, Volume 44, London 1956. ISBN 1-870166-44-2.
-
 ---
 ### Texts
 

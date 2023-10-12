@@ -10,6 +10,7 @@ permalink: /irish/
 | --------- | ----------- |
 | [Lebor Gabála Érenn (The Book of Invasions)]({{ site.baseurl }}{% link irish/texts/lge/irish-text-lge.markdown %})    | 12th century, second half       |
 | [Do Flathiusaib hÉrend (Roll of the Kings)]({{ site.baseurl }}{% link irish/texts/dfh/irish-text-dfh.markdown %})  | 12th Century | Middle Irish |
+| [Cath Maige Tuired Cunga (The First Battle od Maige Tuired)]({{ site.baseurl }}{% link irish/texts/cmtc/irish-text-cmtc.markdown %})  | | |
 
 ### Manuscripts
 
