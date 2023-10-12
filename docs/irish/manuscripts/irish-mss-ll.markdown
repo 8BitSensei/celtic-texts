@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /irish/
+permalink: /irish/mss/ll
 ---
 
 ## Lebar na Núachongbála
