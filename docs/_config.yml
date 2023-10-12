@@ -28,6 +28,10 @@ github_username:  8BitSensei
 
 #remote_theme: olivier3lanc/Jekyll-LibDoc
 
+header_pages:
+  - about.markdown
+  - irish/irish-index.markdown
+
 # Build settings
 theme: minima
 plugins:

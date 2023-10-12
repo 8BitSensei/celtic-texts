@@ -4,4 +4,8 @@ title: Irish Texts
 permalink: /irish/
 ---
 
-[The Book of Leinster]({{ site.baseurl }}{% link irish/manuscripts/irish-mss-ll.markdown %})
+### Manuscripts
+
+| MSS    | Date |
+| --------- | ----------- |
+| [The Book of Leinster (LL)]({{ site.baseurl }}{% link irish/manuscripts/irish-mss-ll.markdown %})    | 12th century, second half       |
