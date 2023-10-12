@@ -3,6 +3,7 @@ layout: page
 permalink: /irish/text/lge/mcalister-1941-1
 title: Lebor Gabála Érenn, Book of the Taking of Ireland Part 1
 --- 
+[Lebor Gabála Érenn (The Book of Invasions)]({{ site.baseurl }}{% link irish/texts/lge/irish-text-lge.markdown %})
 #### §1-25
 ---
 <br>

@@ -7,8 +7,10 @@ title: Lebor Gabála Érenn, The Book of the Taking of Ireland
 #### Author(s): *R. A. S. Macalister*
 #### Publication date: *1941*
 #### Publisher: *Dublin: Irish Texts Society*
+#### Volumes: 3
 
-#### Texts
+---
+### Texts
 
 | Text | Language |
 | --------- | ----------- |
